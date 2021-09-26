@@ -1,6 +1,8 @@
+![image](https://user-images.githubusercontent.com/50838849/134799221-761814c7-b6cd-4ada-aff2-9016af2af37a.png)
+
 ## 카드 가입자 정보를 통한 카드 연체 예측 프로젝트
 
-![image](https://user-images.githubusercontent.com/50838849/134799221-761814c7-b6cd-4ada-aff2-9016af2af37a.png)
+
 
 ###[결론]
 ![image](https://user-images.githubusercontent.com/50838849/134799293-5b77f980-c844-4707-bbb0-ffb0c26e9a59.png)
@@ -9,7 +11,7 @@
 이를 통해 카드 연체자를 미리 확인하고 리스크를 줄일 수 있을 것입니다.
 
 
-### 데이터
+### [분석 데이터]
 ![image](https://user-images.githubusercontent.com/50838849/134799284-6b8c69df-38ab-46b4-b494-b9a5f83a5381.png)
 
 
