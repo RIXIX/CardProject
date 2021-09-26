@@ -3,6 +3,8 @@
 ![image](https://user-images.githubusercontent.com/50838849/134799221-761814c7-b6cd-4ada-aff2-9016af2af37a.png)
 
 ###[결론]
+![image](https://user-images.githubusercontent.com/50838849/134799293-5b77f980-c844-4707-bbb0-ffb0c26e9a59.png)
+
 인공신경망을 통한 연체 정확도는 0.93으로 나타났으며, 랜덤포레스트를 통한 속성중요도는 카드 중복 발급 정보, 직업의 유형, 성별, 부동산여부 등이 중요하게 나타났습니다.
 이를 통해 카드 연체자를 미리 확인하고 리스크를 줄일 수 있을 것입니다.
 
