@@ -8,6 +8,6 @@
 
 
 ### 데이터
-![image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/68041004-36b3-4969-9ed3-ab9587139bea/Untitled.png)
+![image](https://user-images.githubusercontent.com/50838849/134799284-6b8c69df-38ab-46b4-b494-b9a5f83a5381.png)
 
 
